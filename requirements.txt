@@ -1,4 +1,4 @@
-tensorflow>=2.19.0
+tensorflow[and-cuda]
 numpy>=2.1.0
 matplotlib>=3.10.0
 pillow>=8.0.0
